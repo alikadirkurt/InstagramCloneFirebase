@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "552346257359-6jci301cta8gfiuefuj5djirmfb99hv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kadir.instagramclonefirebase",
+            "certificate_hash": "c81f754715f86f8b065674ac20e138f1f0e82e6e"
+          }
+        },
+        {
           "client_id": "552346257359-4vbtgageorv9gf6hs12tg4i78gvsvsl8.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552346257359-4vbtgageorv9gf6hs12tg4i78gvsvsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
